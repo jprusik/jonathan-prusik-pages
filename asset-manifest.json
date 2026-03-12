@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://jonathanprusik.com/static/css/main.6e8d421d.css",
-    "main.js": "https://jonathanprusik.com/static/js/main.cfefe9f2.js",
+    "main.js": "https://jonathanprusik.com/static/js/main.c6459db7.js",
     "static/media/PiDayGuidebook.pdf": "https://jonathanprusik.com/static/media/PiDayGuidebook.d735d87c94bc847ec1a7.pdf",
     "static/media/ZombieVsArchetypes.zip": "https://jonathanprusik.com/static/media/ZombieVsArchetypes.31b14a77932e68fcea6e.zip",
     "static/media/MembersStatsPageV2.mp4": "https://jonathanprusik.com/static/media/MembersStatsPageV2.cd70579abb94a2b76d0f.mp4",
@@ -73,10 +73,10 @@
     "static/media/MemberStatsPageLocalizedDistanceUnits.png": "https://jonathanprusik.com/static/media/MemberStatsPageLocalizedDistanceUnits.17f7fb7437eb9544241e.png",
     "index.html": "https://jonathanprusik.com/index.html",
     "main.6e8d421d.css.map": "https://jonathanprusik.com/static/css/main.6e8d421d.css.map",
-    "main.cfefe9f2.js.map": "https://jonathanprusik.com/static/js/main.cfefe9f2.js.map"
+    "main.c6459db7.js.map": "https://jonathanprusik.com/static/js/main.c6459db7.js.map"
   },
   "entrypoints": [
     "static/css/main.6e8d421d.css",
-    "static/js/main.cfefe9f2.js"
+    "static/js/main.c6459db7.js"
   ]
 }
