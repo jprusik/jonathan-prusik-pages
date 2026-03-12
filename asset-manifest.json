@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://jprusik.github.io/jonathan-prusik-pages/static/css/main.20d79d3d.css",
-    "main.js": "https://jprusik.github.io/jonathan-prusik-pages/static/js/main.35665a5a.js",
+    "main.js": "https://jprusik.github.io/jonathan-prusik-pages/static/js/main.defc90f5.js",
     "static/media/PiDayGuidebook.pdf": "https://jprusik.github.io/jonathan-prusik-pages/static/media/PiDayGuidebook.d735d87c94bc847ec1a7.pdf",
     "static/media/ZombieVsArchetypes.zip": "https://jprusik.github.io/jonathan-prusik-pages/static/media/ZombieVsArchetypes.31b14a77932e68fcea6e.zip",
     "static/media/MembersStatsPageV2.mp4": "https://jprusik.github.io/jonathan-prusik-pages/static/media/MembersStatsPageV2.cd70579abb94a2b76d0f.mp4",
@@ -73,10 +73,10 @@
     "static/media/MemberStatsPageLocalizedDistanceUnits.png": "https://jprusik.github.io/jonathan-prusik-pages/static/media/MemberStatsPageLocalizedDistanceUnits.17f7fb7437eb9544241e.png",
     "index.html": "https://jprusik.github.io/jonathan-prusik-pages/index.html",
     "main.20d79d3d.css.map": "https://jprusik.github.io/jonathan-prusik-pages/static/css/main.20d79d3d.css.map",
-    "main.35665a5a.js.map": "https://jprusik.github.io/jonathan-prusik-pages/static/js/main.35665a5a.js.map"
+    "main.defc90f5.js.map": "https://jprusik.github.io/jonathan-prusik-pages/static/js/main.defc90f5.js.map"
   },
   "entrypoints": [
     "static/css/main.20d79d3d.css",
-    "static/js/main.35665a5a.js"
+    "static/js/main.defc90f5.js"
   ]
 }
